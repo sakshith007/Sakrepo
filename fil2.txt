@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 hello10
+=======
+hello
+hello1
+hello2
+>>>>>>> dev
