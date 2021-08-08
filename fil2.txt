@@ -1,2 +1,4 @@
 hello
-hello3
+<<<<<<< HEAD
+hello
+>>>>>>> 7963c240eb618ae0e19e817f10c800482b2512e7
